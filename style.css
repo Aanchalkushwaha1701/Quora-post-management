@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(219, 212, 212);
+}
+h1{
+    color:maroon;
+}
+.post{
+    background-color: antiquewhite;
+}
+.user{
+    font-style: italic;
+}
+button{
+    background-color: rgb(215, 215, 206);
+    border-radius: 6px;
+}
